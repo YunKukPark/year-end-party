@@ -13,5 +13,10 @@ dev branch에서 가지 따십시요
 
 예를 들어 2022 branch에서 땄다면 feature/숙박 이런식으로 만들어주십쇼.
 
+### merge는?
+
+dev => master (merge)
+feat => dev (rebase)
+
 
 # 그럼 올 한해도 고생 많으셨고, 내년에도 고생좀 합시다!

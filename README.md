@@ -15,7 +15,7 @@ dev branch에서 가지 따십시요
 
 ### merge는?
 
-dev => master (merge)
+dev => master (merge)  
 feat => dev (rebase)
 
 
